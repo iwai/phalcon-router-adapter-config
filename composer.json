@@ -1,0 +1,20 @@
+{
+  "name": "iwai/phalcon-router-adapter-config",
+  "homepage": "https://github.com/iwai/phalcon-router-adapter-config",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    { "name":"Yuji Iwai", "email":"iwai.ug@gmail.com" }
+  ],
+  "require": {
+    "php": ">=5.3.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Phalcon\\Mvc\\Router\\": "src/"
+    }
+  }
+}
