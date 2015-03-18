@@ -1,4 +1,4 @@
-# Phalcon\Router\Adapter\Config
+# Phalcon\Mvc\Router\Config
 Provides the ability to perform the Routing from configuration
 
 ## Install
